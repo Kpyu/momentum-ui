@@ -1,0 +1,405 @@
+{
+  "size": 2340,
+  "gzipSize": 556,
+  "humanizedSize": "2KB",
+  "humanizedGzipSize": "556B",
+  "rules": {
+    "total": 24,
+    "size": {
+      "graph": [
+        1,
+        3,
+        1,
+        3,
+        1,
+        3,
+        1,
+        7,
+        1,
+        1,
+        1,
+        5,
+        5,
+        1,
+        1,
+        1,
+        2,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "max": 7,
+      "average": 2
+    },
+    "selectorByRuleSizes": [
+      {
+        "selector": ".md-table .md-table__header th",
+        "declarations": 7
+      },
+      {
+        "selector": ".md-table .md-table__header th a.sortedZyx:after",
+        "declarations": 5
+      },
+      {
+        "selector": ".md-table .md-table__header th a.sortedAbc:after",
+        "declarations": 5
+      },
+      {
+        "selector": ".md-table tr td",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-table",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-table-container_stickly .md-table__header th",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-table-container_stickly",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-table--no-borders .md-table__header th,.md-table--no-borders tr td",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-table .md-table__body td",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-table--no-borders",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table--clean tr td",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table--stripped .md-table__body tr:nth-child(even):hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table--stripped .md-table__body tr:nth-child(even)",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table tr",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table .md-table__body tr:active",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table .md-table__body tr:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table .md-table__body tr",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table .md-table__header th a",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table .md-table__header th:active",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table .md-table__header th:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table .md-table__header tr",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table-container_stickly .md-table__header th:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table-container_stickly .md-table__header tr",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-table-container",
+        "declarations": 1
+      }
+    ]
+  },
+  "selectors": {
+    "total": 25,
+    "type": 21,
+    "class": 25,
+    "id": 0,
+    "pseudoClass": 7,
+    "pseudoElement": 2,
+    "values": [
+      ".md-table-container",
+      ".md-table-container_stickly",
+      ".md-table-container_stickly .md-table__header tr",
+      ".md-table-container_stickly .md-table__header th",
+      ".md-table-container_stickly .md-table__header th:hover",
+      ".md-table",
+      ".md-table .md-table__header tr",
+      ".md-table .md-table__header th",
+      ".md-table .md-table__header th:hover",
+      ".md-table .md-table__header th:active",
+      ".md-table .md-table__header th a",
+      ".md-table .md-table__header th a.sortedAbc:after",
+      ".md-table .md-table__header th a.sortedZyx:after",
+      ".md-table .md-table__body tr",
+      ".md-table .md-table__body tr:hover",
+      ".md-table .md-table__body tr:active",
+      ".md-table .md-table__body td",
+      ".md-table tr",
+      ".md-table tr td",
+      ".md-table--stripped .md-table__body tr:nth-child(even)",
+      ".md-table--stripped .md-table__body tr:nth-child(even):hover",
+      ".md-table--clean tr td",
+      ".md-table--no-borders",
+      ".md-table--no-borders .md-table__header th",
+      ".md-table--no-borders tr td"
+    ],
+    "specificity": {
+      "max": 41,
+      "average": 21.96,
+      "graph": [
+        10,
+        10,
+        21,
+        21,
+        31,
+        10,
+        21,
+        21,
+        31,
+        31,
+        22,
+        33,
+        33,
+        21,
+        31,
+        31,
+        21,
+        11,
+        12,
+        31,
+        41,
+        12,
+        10,
+        21,
+        12
+      ],
+      "sortedGraph": [
+        {
+          "selector": ".md-table--stripped .md-table__body tr:nth-child(even):hover",
+          "specificity": 41
+        },
+        {
+          "selector": ".md-table .md-table__header th a.sortedAbc:after",
+          "specificity": 33
+        },
+        {
+          "selector": ".md-table .md-table__header th a.sortedZyx:after",
+          "specificity": 33
+        },
+        {
+          "selector": ".md-table-container_stickly .md-table__header th:hover",
+          "specificity": 31
+        },
+        {
+          "selector": ".md-table .md-table__header th:hover",
+          "specificity": 31
+        },
+        {
+          "selector": ".md-table .md-table__header th:active",
+          "specificity": 31
+        },
+        {
+          "selector": ".md-table .md-table__body tr:hover",
+          "specificity": 31
+        },
+        {
+          "selector": ".md-table .md-table__body tr:active",
+          "specificity": 31
+        },
+        {
+          "selector": ".md-table--stripped .md-table__body tr:nth-child(even)",
+          "specificity": 31
+        },
+        {
+          "selector": ".md-table .md-table__header th a",
+          "specificity": 22
+        },
+        {
+          "selector": ".md-table-container_stickly .md-table__header tr",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-table-container_stickly .md-table__header th",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-table .md-table__header tr",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-table .md-table__header th",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-table .md-table__body tr",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-table .md-table__body td",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-table--no-borders .md-table__header th",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-table tr td",
+          "specificity": 12
+        },
+        {
+          "selector": ".md-table--clean tr td",
+          "specificity": 12
+        },
+        {
+          "selector": ".md-table--no-borders tr td",
+          "specificity": 12
+        },
+        {
+          "selector": ".md-table tr",
+          "specificity": 11
+        },
+        {
+          "selector": ".md-table-container",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-table-container_stickly",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-table",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-table--no-borders",
+          "specificity": 10
+        }
+      ]
+    },
+    "repeated": []
+  },
+  "declarations": {
+    "total": 48,
+    "unique": 32,
+    "properties": {
+      "width": [
+        "100%",
+        "100%"
+      ],
+      "height": [
+        "100%",
+        "2.625rem",
+        "2.625rem"
+      ],
+      "overflow-y": [
+        "auto"
+      ],
+      "position": [
+        "relative",
+        "sticky"
+      ],
+      "background-color": [
+        "transparent",
+        "var(--table-header-bg-color, #F7F7F7)",
+        "var(--table-hover-bg-color, #EDEDED)",
+        "var(--table-header-bg-color, #F7F7F7)",
+        "var(--table-hover-bg-color, #EDEDED)",
+        "var(--table-pressed-bg-color, #DEDEDE)",
+        "var(--table-hover-bg-color, #EDEDED)",
+        "var(--table-pressed-bg-color, #DEDEDE)",
+        "var(--table-stripped-bg-color, #EDEDED)",
+        "var(--table-hover-bg-color, #EDEDED)"
+      ],
+      "top": [
+        "0"
+      ],
+      "border": [
+        "1px solid var(--table-border-color, #DEDEDE)",
+        "unset"
+      ],
+      "border-collapse": [
+        "collapse"
+      ],
+      "border-bottom": [
+        "1px solid var(--table-border-color, #DEDEDE)",
+        "1px solid var(--table-border-color, #DEDEDE)",
+        "unset"
+      ],
+      "border-right": [
+        "1px solid var(--table-border-color, #DEDEDE)",
+        "1px solid var(--table-border-color, #DEDEDE)",
+        "unset",
+        "unset"
+      ],
+      "color": [
+        "var(--table-text-color, #545454)",
+        "var(--table-text-color, #545454)"
+      ],
+      "font-size": [
+        "12px",
+        "14px"
+      ],
+      "font-weight": [
+        "bold"
+      ],
+      "padding-left": [
+        "calc(.25rem * 3)",
+        ".25rem",
+        ".25rem",
+        "calc(.25rem * 3)"
+      ],
+      "text-align": [
+        "left"
+      ],
+      "content": [
+        "\"\\f1cc\"",
+        "\"\\f1cf\""
+      ],
+      "display": [
+        "inline-block",
+        "inline-block"
+      ],
+      "font-family": [
+        "\"momentum-ui-icons\"",
+        "\"momentum-ui-icons\""
+      ],
+      "vertical-align": [
+        "bottom",
+        "bottom",
+        "top"
+      ]
+    },
+    "resets": {}
+  },
+  "mediaQueries": {
+    "total": 0,
+    "unique": 0,
+    "values": [],
+    "contents": []
+  }
+}

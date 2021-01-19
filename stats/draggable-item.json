@@ -1,0 +1,97 @@
+{
+  "size": 210,
+  "gzipSize": 170,
+  "humanizedSize": "210B",
+  "humanizedGzipSize": "170B",
+  "rules": {
+    "total": 2,
+    "size": {
+      "graph": [
+        7,
+        3
+      ],
+      "max": 7,
+      "average": 5
+    },
+    "selectorByRuleSizes": [
+      {
+        "selector": ".draggable",
+        "declarations": 7
+      },
+      {
+        "selector": ".placeholder",
+        "declarations": 3
+      }
+    ]
+  },
+  "selectors": {
+    "total": 2,
+    "type": 0,
+    "class": 2,
+    "id": 0,
+    "pseudoClass": 0,
+    "pseudoElement": 0,
+    "values": [
+      ".draggable",
+      ".placeholder"
+    ],
+    "specificity": {
+      "max": 10,
+      "average": 10,
+      "graph": [
+        10,
+        10
+      ],
+      "sortedGraph": [
+        {
+          "selector": ".draggable",
+          "specificity": 10
+        },
+        {
+          "selector": ".placeholder",
+          "specificity": 10
+        }
+      ]
+    },
+    "repeated": []
+  },
+  "declarations": {
+    "total": 10,
+    "unique": 9,
+    "properties": {
+      "border": [
+        "1px solid #ccc",
+        "2px dashed #cbd5e0"
+      ],
+      "cursor": [
+        "move"
+      ],
+      "margin-bottom": [
+        "1rem",
+        "1rem"
+      ],
+      "min-height": [
+        "24px"
+      ],
+      "min-width": [
+        "100px"
+      ],
+      "padding": [
+        "1rem"
+      ],
+      "user-select": [
+        "none"
+      ],
+      "background-color": [
+        "#edf2f7"
+      ]
+    },
+    "resets": {}
+  },
+  "mediaQueries": {
+    "total": 0,
+    "unique": 0,
+    "values": [],
+    "contents": []
+  }
+}
